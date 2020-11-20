@@ -1,0 +1,20 @@
+/* header */
+header {
+  background: none;
+}
+
+/* products */
+.product-short {
+  justify-content: space-between;
+  margin-bottom:50px;
+}
+.product-select {
+  border: 1px solid #ff523b;
+  padding: 5px;
+}
+.product-select:focus {
+  outline: none;
+}
+.product-row {
+  margin-top: 0;
+}
